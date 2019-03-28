@@ -1,7 +1,5 @@
 package com.wrox;
 
-import com.sun.org.glassfish.gmbal.Description;
-
 import javax.servlet.ServletException;
 import javax.servlet.ServletOutputStream;
 import javax.servlet.annotation.MultipartConfig;
@@ -16,7 +14,12 @@ import java.io.InputStream;
 import java.io.PrintWriter;
 import java.util.LinkedHashMap;
 import java.util.Map;
+/*
+    单纯使用Java EE默认包开发的web程序（未使用spring框架）
+    主要是Servlet类的使用与开发。
+    如何为自己的应用程序编写和配置自定义的Servlet。
 
+ */
 @WebServlet(
         name = "ticketServlet",
         urlPatterns = {"/tickets"},

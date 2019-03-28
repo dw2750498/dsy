@@ -6,7 +6,26 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e507006-8c92-4a5e-bbc3-5cf2c80bdc8d" name="Default" comment="" />
+    <list default="true" id="9e507006-8c92-4a5e-bbc3-5cf2c80bdc8d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-Support-v1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-Support-v1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v1/source/production/java/com/wrox/TicketServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-Support-v1/source/production/java/com/wrox/TicketServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v1/target/classes/com/wrox/TicketServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-Support-v1/target/classes/com/wrox/TicketServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v1/target/customer-support-1.0.0.SNAPSHOT/WEB-INF/classes/com/wrox/TicketServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-Support-v1/target/customer-support-1.0.0.SNAPSHOT/WEB-INF/classes/com/wrox/TicketServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v16/.idea/artifacts/Customer_Support_v16_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-Support-v16/.idea/artifacts/Customer_Support_v16_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v16/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-Support-v16/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v16/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-Support-v16/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v16/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-Support-v16/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-Support-v16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v16/Customer-Support-v16.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-Support-v16/Customer-Support-v16.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-Support-v3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-Support-v3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shopping-Cart/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shopping-Cart/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shopping-Cart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shopping-Cart/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="Customer-Support-v2.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -133,20 +152,38 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1789626291">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="jsp" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="JSP" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Customer-Support-v2" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/LoginServlet.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="21" column="46" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -154,7 +191,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/SessionRegistry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
+            <state relative-caret-position="418">
               <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -174,7 +211,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/sessions.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
+            <state relative-caret-position="798">
               <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
@@ -183,7 +220,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/SessionListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
+            <state relative-caret-position="551">
               <caret line="34" column="56" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -197,7 +234,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/SessionListServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
+            <state relative-caret-position="513">
               <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -207,18 +244,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/login.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
+            <state relative-caret-position="38">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
@@ -227,7 +255,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/ticketForm.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
+            <state relative-caret-position="133">
               <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
             </state>
           </provider>
@@ -245,8 +273,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/listTickets.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="228">
               <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/LoginServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -265,6 +302,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -306,11 +346,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="446" />
-    <option name="y" value="65" />
-    <option name="width" value="1230" />
-    <option name="height" value="955" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1040" />
+    <option name="height" value="745" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -383,8 +424,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -398,7 +439,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551946610486" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Customer-Support-v7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Customer-Support-v7.0" />
     <property name="options.lastSelected" value="File.Encoding" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -509,7 +550,7 @@
       </method>
     </configuration>
     <configuration name="Tomcat 8.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
       <deployment>
         <artifact name="Customer-Support-v2:war exploded">
           <settings>
@@ -636,16 +677,17 @@
       <workItem from="1541493306400" duration="3112000" />
       <workItem from="1541666112262" duration="612000" />
       <workItem from="1551945749916" duration="1231000" />
+      <workItem from="1553604978812" duration="1401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16359000" />
+    <option name="totallyTimeSpent" value="17760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6003401" visible="true" weight="0.21447721" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6003401" visible="true" weight="0.21715818" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Palette&#9;" order="3" />
@@ -655,7 +697,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28739002" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2863436" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3980424" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -761,7 +803,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/SessionRegistry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
+        <state relative-caret-position="418">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -779,14 +821,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/sessions.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
+        <state relative-caret-position="798">
           <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/SessionListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
+        <state relative-caret-position="551">
           <caret line="34" column="56" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -798,7 +840,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/SessionListServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
+        <state relative-caret-position="513">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -806,9 +848,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/ticketForm.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
+        <state relative-caret-position="133">
           <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
         </state>
       </provider>
@@ -822,32 +871,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/listTickets.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="228">
           <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="171">
           <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/LoginServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="21" column="46" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="19">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
