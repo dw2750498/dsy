@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Customer-Support-v7.iml" filepath="$PROJECT_DIR$/Customer-Support-v7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BBS_version_4.iml" filepath="$PROJECT_DIR$/BBS_version_4.iml" />
     </modules>
   </component>
 </project>
-

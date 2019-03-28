@@ -4,7 +4,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="Customer-Support-v7" />
+          <element id="module-output" name="BBS_version_4" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api:1.2.1" />
@@ -15,7 +15,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/customer-support-7.0.0.SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="Customer-Support-v7/web/Web" />
+      <element id="javaee-facet-resources" facet="BBS_version_4/web/Web" />
     </root>
   </artifact>
 </component>
