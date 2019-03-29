@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BBS_version_4:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="customer-support-7.0.0.SNAPSHOT.war">
+      <element id="artifact" artifact-name="BBS_version_4:war exploded" />
+    </root>
+  </artifact>
+</component>

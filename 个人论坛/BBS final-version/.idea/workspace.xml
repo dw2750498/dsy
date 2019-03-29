@@ -91,8 +91,10 @@
     <session id="-1237345907">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -106,67 +108,12 @@
         </counts>
       </usages-collector>
     </session>
-    <session id="-1680996759">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Customer-Support-v7" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/Configurator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/AuthenticationFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/TicketServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/SessionListServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -206,9 +153,9 @@
       </PATH>
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="572" />
-    <option name="y" value="222" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="1040" />
     <option name="height" value="745" />
   </component>
@@ -222,6 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -234,7 +182,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,8 +194,8 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553768567434" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Customer-Support-v10" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553768759951" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="options.lastSelected" value="File.Encoding" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -433,16 +380,16 @@
       <workItem from="1553607311404" duration="1584000" />
       <workItem from="1553742485300" duration="593000" />
       <workItem from="1553767619915" duration="401000" />
-      <workItem from="1553768304093" duration="257000" />
-      <workItem from="1553830076503" duration="203000" />
+      <workItem from="1553768304093" duration="458000" />
+      <workItem from="1553774959786" duration="103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4148000" />
+    <option name="totallyTimeSpent" value="4249000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="458" y="178" width="832" height="596" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -451,10 +398,10 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Web" order="5" side_tool="true" />
       <window_info id="Palette&#9;" order="6" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.6003401" visible="true" weight="0.27131784" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.6003401" visible="true" weight="0.14075068" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32881355" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32892805" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32892805" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3980424" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -513,128 +460,24 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/listTickets.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/sessions.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/tld/wrox.tld">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="160" column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/tags/template/loggedOut.tag">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/tags/template/main.tag">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/TimeUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/SessionListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="10" column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/SessionRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/resource/stylesheet/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/tags/template/basic.tag">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="24" column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/Ticket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/AuthenticationFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/TicketServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/SessionListServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/Configurator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/listTickets.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/sessions.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/tld/wrox.tld" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/tags/template/loggedOut.tag" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/tags/template/main.tag" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/TimeUtils.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/SessionListener.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/SessionRegistry.java" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/web/resource/stylesheet/main.css" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/tags/template/basic.tag" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/Ticket.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/LoginServlet.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/Configurator.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/AuthenticationFilter.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/TicketServlet.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/SessionListServlet.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
   </component>
   <component name="masterDetails">
     <states>
