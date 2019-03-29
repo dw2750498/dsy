@@ -14,6 +14,9 @@ import javax.servlet.ServletException;
 import javax.servlet.ServletRegistration;
 
 @SuppressWarnings("unused")
+/*该类为启动类，在功能上等同于之前使用的部署描述符；
+* 在WebApplicationInitializer实现类中，可以通过编程的方式配置监听器、servlet、过滤器等。
+* */
 public class Bootstrap implements WebApplicationInitializer
 {
     @Override
