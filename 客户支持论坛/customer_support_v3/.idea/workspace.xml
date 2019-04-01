@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="customer_support_final_ver:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e507006-8c92-4a5e-bbc3-5cf2c80bdc8d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Customer-Support-v10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-Support-v10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/config/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/config/Bootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/AuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/AuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/TicketController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/TicketController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/chat/ChatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/chat/ChatEndpoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/chat/ChatMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/chat/ChatMessageCodec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/chat/ChatSession.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/config/Bootstrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/config/Bootstrap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/AuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/AuthenticationFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/IndexController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/TicketController$Form.class" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/TicketController$Form.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/TicketController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/TicketController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/chat/ChatController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/chat/ChatEndpoint$EndpointConfigurator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/chat/ChatEndpoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/chat/ChatMessage$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/chat/ChatMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/chat/ChatMessageCodec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/chat/ChatSession.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/web/WEB-INF/jsp/view/chat/chat.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/web/WEB-INF/jsp/view/chat/list.jsp" beforeDir="false" />
+    </list>
+    <ignored path="Customer-Support-v10.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties converted="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-831466629">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="1" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="1" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="76" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="76" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-813705178">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="563" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="563" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="8" />
+          <entry key="jsp" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="8" />
+          <entry key="JSP" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-20354039">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Customer-Support-v10" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/tag/FormatDateTag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3534">
+              <caret line="299" column="18" selection-start-line="299" selection-start-column="18" selection-end-line="299" selection-end-column="18" />
+              <folding>
+                <element signature="method#doEndTag#0;class#FormatDateTag#0" />
+                <element signature="method#formatDate#0;class#FormatDateTag#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/source/production/java/com/wrox/config/Bootstrap.java" />
+        <option value="$PROJECT_DIR$/source/production/java/com/wrox/site/IndexController.java" />
+        <option value="$PROJECT_DIR$/source/production/java/com/wrox/site/AuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatController.java" />
+        <option value="$PROJECT_DIR$/source/production/java/com/wrox/site/TicketController.java" />
+        <option value="$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatMessageCodec.java" />
+        <option value="$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatSession.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="390" />
+    <option name="y" value="130" />
+    <option name="width" value="1040" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="customer_support_v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_support_v3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="customer_support_v3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="customer_support_v3" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554110682469" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nicholas\Desktop\Customer-Support-v10\source\production\java\com\wrox" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nicholas\Desktop\Customer-Support-v10\web\WEB-INF\jsp\view\session" />
+      <recent name="C:\Users\Nicholas\Desktop\Customer-Support-v10\web\WEB-INF\jsp\view\ticket" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="false" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="customer_support_final_ver:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Customer-Support-v10" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51750" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+        <EnvironmentVariables>
+          <option name="NAME" value="CATALINA_BASE" />
+          <option name="VALUE" value="C:\Program Files\Apache Software Foundation\Tomcat 8.0" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+        <EnvironmentVariables>
+          <option name="NAME" value="CATALINA_BASE" />
+          <option name="VALUE" value="C:\Program Files\Apache Software Foundation\Tomcat 8.0" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+        <EnvironmentVariables>
+          <option name="NAME" value="CATALINA_BASE" />
+          <option name="VALUE" value="D:\java IDE\Tomcat\8.5" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="customer_support_final_ver:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e507006-8c92-4a5e-bbc3-5cf2c80bdc8d" name="Default" comment="" />
+      <created>1359222780888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359222780888</updated>
+      <workItem from="1385511444807" duration="345000" />
+      <workItem from="1385511853599" duration="38000" />
+      <workItem from="1385618247886" duration="1107000" />
+      <workItem from="1385619376155" duration="115000" />
+      <workItem from="1385692487526" duration="26000" />
+      <workItem from="1392228217955" duration="94000" />
+      <workItem from="1409510877169" duration="52000" />
+      <workItem from="1553830282508" duration="756000" />
+      <workItem from="1553859758439" duration="1499000" />
+      <workItem from="1553861534347" duration="1481000" />
+      <workItem from="1553863238033" duration="113000" />
+      <workItem from="1554107863757" duration="2644000" />
+      <workItem from="1554110561073" duration="128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8398000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6003401" visible="true" weight="0.14008042" />
+      <window_info id="Palette&#9;" order="1" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="3" sideWeight="0.27210885" side_tool="true" weight="0.24846625" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32881355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22613803" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32881355" />
+      <window_info anchor="bottom" id="IDEtalk Messages" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.5095448" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="3" />
+      <window_info anchor="right" id="CDI" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32892057" />
+      <window_info anchor="right" id="IDEtalk" order="8" />
+      <window_info anchor="right" id="Designer" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatEndpoint.java</url>
+          <line>203</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/source/production/java/com/wrox/site/tag/FormatDateTag.java</url>
+          <line>133</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Customer-Support-v10" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Customer-Support-v10" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/session/list.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/ticket/list.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/ticket/add.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/ticket/view.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/tags/template/basic.tag">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/config/RootContextConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/chat/list.jsp" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/LoggingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/AuthenticationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="17" column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.wrox:customer-support:10.0.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.wrox:customer-support:10.0.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.0.1.RELEASE/org.springframework:spring-expression:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.apache.logging.log4j:log4j-jcl:jar:2.0-rc1/org.apache.logging.log4j:log4j-api:jar:2.0-rc1</node>
+            <node x="" y="">org.springframework:spring-oxm:jar:4.0.1.RELEASE/org.springframework:spring-beans:jar:4.0.1.RELEASE</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.3.1/com.fasterxml.jackson.core:jackson-core:jar:2.3.1</node>
+            <node x="" y="">org.glassfish.web:javax.servlet.jsp.jstl:jar:1.2.2</node>
+            <node x="" y="">org.apache.logging.log4j:log4j-slf4j-impl:jar:2.0-rc1/org.slf4j:slf4j-api:jar:1.7.5</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-web:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.0.1.RELEASE</node>
+            <node x="" y="">javax.websocket:javax.websocket-api:jar:1.0</node>
+            <node x="" y="">org.apache.logging.log4j:log4j-taglib:jar:2.0-rc1</node>
+            <node x="" y="">com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.3.1/com.fasterxml.jackson.core:jackson-core:jar:2.3.1</node>
+            <node x="" y="">org.apache.logging.log4j:log4j-jcl:jar:2.0-rc1</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-web:jar:4.0.1.RELEASE/org.springframework:spring-core:jar:4.0.1.RELEASE</node>
+            <node x="" y="">com.wrox:customer-support:10.0.0-SNAPSHOT</node>
+            <node x="" y="">org.apache.logging.log4j:log4j-core:jar:2.0-rc1</node>
+            <node x="" y="">org.springframework:spring-oxm:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-web:jar:4.0.1.RELEASE/org.springframework:spring-beans:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.apache.commons:commons-lang3:jar:3.1</node>
+            <node x="" y="">javax.inject:javax.inject:jar:1</node>
+            <node x="" y="">org.apache.logging.log4j:log4j-slf4j-impl:jar:2.0-rc1/org.apache.logging.log4j:log4j-api:jar:2.0-rc1</node>
+            <node x="" y="">org.apache.logging.log4j:log4j-core:jar:2.0-rc1/org.apache.logging.log4j:log4j-api:jar:2.0-rc1</node>
+            <node x="" y="">org.apache.logging.log4j:log4j-slf4j-impl:jar:2.0-rc1</node>
+            <node x="" y="">javax.servlet:javax.servlet-api:jar:3.1.0</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-expression:jar:4.0.1.RELEASE/org.springframework:spring-core:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.0.1.RELEASE/org.springframework:spring-aop:jar:4.0.1.RELEASE</node>
+            <node x="" y="">javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api:jar:1.2.1</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.0.1.RELEASE/org.springframework:spring-aop:jar:4.0.1.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-beans:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-expression:jar:4.0.1.RELEASE</node>
+            <node x="" y="">javax.servlet.jsp:javax.servlet.jsp-api:jar:2.3.1</node>
+            <node x="" y="">org.apache.logging.log4j:log4j-jcl:jar:2.0-rc1/commons-logging:commons-logging:jar:1.1.3</node>
+            <node x="" y="">com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.3.1/com.fasterxml.jackson.core:jackson-databind:jar:2.3.1</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.0.1.RELEASE/org.springframework:spring-aop:jar:4.0.1.RELEASE/org.springframework:spring-beans:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.apache.logging.log4j:log4j-api:jar:2.0-rc1</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-core:jar:4.0.1.RELEASE/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">javax.annotation:javax.annotation-api:jar:1.2</node>
+            <node x="" y="">com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.3.1</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-core:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.apache.logging.log4j:log4j-taglib:jar:2.0-rc1/org.apache.logging.log4j:log4j-api:jar:2.0-rc1</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-core:jar:2.3.1</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.0.1.RELEASE/org.springframework:spring-aop:jar:4.0.1.RELEASE/org.springframework:spring-core:jar:4.0.1.RELEASE</node>
+            <node x="" y="">javax.el:javax.el-api:jar:3.0.0</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-annotations:jar:2.3.1</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-web:jar:4.0.1.RELEASE/org.springframework:spring-aop:jar:4.0.1.RELEASE</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.3.1/com.fasterxml.jackson.core:jackson-annotations:jar:2.3.0</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-web:jar:4.0.1.RELEASE</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.3.1</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.0.1.RELEASE/org.springframework:spring-beans:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-beans:jar:4.0.1.RELEASE/org.springframework:spring-core:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.0.1.RELEASE/org.springframework:spring-context:jar:4.0.1.RELEASE/org.springframework:spring-core:jar:4.0.1.RELEASE</node>
+            <node x="" y="">org.springframework:spring-oxm:jar:4.0.1.RELEASE/org.springframework:spring-core:jar:4.0.1.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="339.0" y="728.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/production/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Customer-Support-v10.iml" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/config/Bootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="161" column="29" selection-start-line="161" selection-start-column="29" selection-end-line="161" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/config/ServletContextConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/AuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="58" lean-forward="true" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/DownloadingView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="36" column="53" lean-forward="true" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/TicketController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="72" column="27" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/chat/chat.jsp" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatMessageCodec.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatController.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatMessage.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatSession.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatEndpoint.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/tag/FormatDateTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3534">
+          <caret line="299" column="18" selection-start-line="299" selection-start-column="18" selection-end-line="299" selection-end-column="18" />
+          <folding>
+            <element signature="method#doEndTag#0;class#FormatDateTag#0" />
+            <element signature="method#formatDate#0;class#FormatDateTag#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Customer-Support-v10:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (Customer-Support-v10)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jquery-1.9.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Java 8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|Customer-Support-v10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31152633" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.commons:commons-lang3:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

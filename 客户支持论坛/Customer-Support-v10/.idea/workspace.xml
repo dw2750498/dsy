@@ -7,190 +7,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e507006-8c92-4a5e-bbc3-5cf2c80bdc8d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Customer_Support_v10_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Customer_Support_v10_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Nicholas.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_el_javax_el_api_3_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jstl_javax_servlet_jsp_jstl_api_1_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jcl_2_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_taglib_2_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_web_javax_servlet_jsp_jstl_1_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer_support_final_ver.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/config/Bootstrap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/config/RootContextConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/config/ServletContextConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/Attachment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/AuthenticationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/AuthenticationFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/DownloadingView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/IndexController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/LoggingFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/SessionListController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/SessionListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/SessionRegistry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/Ticket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/TicketController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/TimeUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatEndpoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatMessage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatMessageCodec.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/java/com/wrox/site/tag/FormatDateTag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/production/resources/log4j2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/test/resources/log4j2-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/config/Bootstrap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/config/RootContextConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/config/ServletContextConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/Attachment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/AuthenticationController$Form.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/AuthenticationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/AuthenticationFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/DownloadingView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/IndexController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/LoggingFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/SessionListController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/SessionListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/SessionRegistry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/TicketController$Form.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/TicketController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/TimeUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/chat/ChatController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/chat/ChatEndpoint$EndpointConfigurator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/chat/ChatEndpoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/chat/ChatMessage$Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/chat/ChatMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/chat/ChatMessageCodec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/chat/ChatSession.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/tag/FormatDateTag$Style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/tag/FormatDateTag$Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wrox/site/tag/FormatDateTag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/config/Bootstrap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/config/RootContextConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/config/ServletContextConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/Attachment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/AuthenticationController$Form.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/AuthenticationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/AuthenticationFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/DownloadingView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/IndexController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/LoggingFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/SessionListController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/SessionListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/SessionRegistry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/TicketController$Form.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/TicketController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/TimeUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/chat/ChatController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/chat/ChatEndpoint$EndpointConfigurator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/chat/ChatEndpoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/chat/ChatMessage$Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/chat/ChatMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/chat/ChatMessageCodec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/chat/ChatSession.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/tag/FormatDateTag$Style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/tag/FormatDateTag$Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/com/wrox/site/tag/FormatDateTag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/classes/log4j2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/jsp/base.jspf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/jsp/view/chat/chat.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/jsp/view/chat/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/jsp/view/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/jsp/view/session/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/jsp/view/ticket/add.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/jsp/view/ticket/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/jsp/view/ticket/view.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/jackson-datatype-jsr310-2.4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/javax.annotation-api-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/javax.inject-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/log4j-api-2.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/log4j-core-2.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/log4j-jcl-2.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/log4j-slf4j-impl-2.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/log4j-taglib-2.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/spring-context-4.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/spring-core-4.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/spring-oxm-4.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/spring-web-4.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.0.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/tags/template/basic.tag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/tags/template/loggedOut.tag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/tags/template/main.tag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/tld/wrox.tld" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/resource/stylesheet/chat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/resource/stylesheet/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/customer-support-10.0.0-SNAPSHOT/resource/stylesheet/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/log4j2-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/base.jspf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/view/chat/chat.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/view/chat/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/view/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/view/session/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/view/ticket/add.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/view/ticket/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/view/ticket/view.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/tags/template/basic.tag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/tags/template/loggedOut.tag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/tags/template/main.tag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/tld/wrox.tld" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/resource/stylesheet/chat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/resource/stylesheet/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/resource/stylesheet/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/config/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/config/Bootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/AuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/AuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/TicketController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/TicketController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/chat/ChatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/chat/ChatEndpoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/chat/ChatMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/chat/ChatMessageCodec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/source/production/java/com/wrox/site/chat/ChatSession.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/config/Bootstrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/config/Bootstrap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/AuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/AuthenticationFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/IndexController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/TicketController$Form.class" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/TicketController$Form.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/TicketController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/TicketController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/chat/ChatController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/chat/ChatEndpoint$EndpointConfigurator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/chat/ChatEndpoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/chat/ChatMessage$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/chat/ChatMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/chat/ChatMessageCodec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/target/classes/com/wrox/site/chat/ChatSession.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/web/WEB-INF/jsp/view/chat/chat.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer_support_final_ver/web/WEB-INF/jsp/view/chat/list.jsp" beforeDir="false" />
     </list>
     <ignored path="Customer-Support-v10.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -248,12 +89,12 @@
     <session id="-831466629">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.41" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -288,7 +129,7 @@
     <favorites_list name="Customer-Support-v10" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -330,8 +171,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="731" />
-    <option name="y" value="277" />
+    <option name="x" value="730" />
+    <option name="y" value="275" />
     <option name="width" value="1040" />
     <option name="height" value="745" />
   </component>
@@ -438,12 +279,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553863216927" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../customer_support_final_ver" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="options.lastSelected" value="File.Encoding" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -683,16 +524,18 @@
       <workItem from="1553859758439" duration="1499000" />
       <workItem from="1553861534347" duration="1481000" />
       <workItem from="1553863125894" duration="110000" />
+      <workItem from="1554107850538" duration="11000" />
+      <workItem from="1554110417112" duration="83000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5623000" />
+    <option name="totallyTimeSpent" value="5717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6003401" visible="true" weight="0.13538875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6003401" visible="true" weight="0.13873994" />
       <window_info id="Palette&#9;" order="1" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="3" sideWeight="0.27210885" side_tool="true" weight="0.24846625" />
@@ -762,66 +605,18 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/session/list.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/ticket/list.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/ticket/add.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/ticket/view.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/tags/template/basic.tag">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="10" column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/config/RootContextConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="16" column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="34" column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/chat/list.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/chat/chat.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/LoggingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/config/ServletContextConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="39" column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/AuthenticationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/session/list.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/ticket/list.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/ticket/add.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/ticket/view.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/tags/template/basic.tag" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/config/RootContextConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatEndpoint.java" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/chat/list.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/chat/chat.jsp" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/LoggingFilter.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/config/ServletContextConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/AuthenticationController.java" />
     <entry file="uml://MAVEN/com.wrox:customer-support:10.0.0-SNAPSHOT">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -891,82 +686,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/Ticket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customer_support_final_ver.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-962" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/config/Bootstrap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/TicketController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/DownloadingView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/source/production/resources/log4j2.xml" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/Ticket.java" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/customer_support_final_ver.iml" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/config/Bootstrap.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/IndexController.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/chat/ChatController.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/TicketController.java" />
+    <entry file="file://$PROJECT_DIR$/source/production/java/com/wrox/site/DownloadingView.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
   </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>Customer-Support-v10:war exploded</last-edited>
+          <last-edited>unnamed</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -974,7 +714,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web (Customer-Support-v10)|Web</last-edited>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -998,7 +738,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>Java 8</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
